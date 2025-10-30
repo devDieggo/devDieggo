@@ -1,21 +1,43 @@
-# Hi 👋 My name is Diego
-A passionate Full HTML & CSS
+<!-- Header -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=USERNAME)
+<h1 align="center">Hi👋 My name is Diego Contreras</h1>
+<h3 align="center">A passionate Student Developer</h3>
 
-- 🔨 I am currently working as Jr. Software Programmer
-- ⚡ Fun fact: I have three dogs!
-- 💬 Ask me about Web Development
-- 📫 How to reach me: diegoctr399@gmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diego1003&label=Profile%20views&color=0e75b6&style=flat" alt="diego1003" />
+</p>
 
-## My Skills - Technologies I use
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+---
 
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME)](https://github.com/anuraghazra/github-readme-stats)
+- 🧑‍💻 I’m currently studying and improving my development skills  
+- ⚡ Fun fact: I love learning new technologies and building creative projects  
+- 🤝 I’m looking to collaborate on *open source or student projects*  
+- 💬 Ask me about *Web Development (HTML, CSS, JS, C++)*  
+- 📫 Reach me at *diegoctr399@gmail.com*
 
-## Connect with me
-[Facebook](https://www.facebook.com/share/1aWAKGQWjs/?mibextid=wwXIfr) • [Twitter](https://x.com/diego76852703?s=21)
+---
+
+### 🧠 My Skills - Technologies I use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,nodejs,express,mysql,bootstrap,git,github,vscode,linux" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego1003&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with me:
+<p align="center">
+  <a href="https://x.com/diego76852703?s=21" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.facebook.com/share/1aWAKGQWjs/?mibextid=wwXIfr" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="mailto:diegoctr399@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
